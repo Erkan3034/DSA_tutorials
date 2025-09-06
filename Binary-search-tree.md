@@ -140,7 +140,7 @@ tree.inorder(tree.root)
 #Yani sıralı bir şekilde çıktı aldım.
 
 ### Sonuç
-
+"""
 Bu projede:
 
 BST’nin ne olduğunu öğrendim,
@@ -153,5 +153,5 @@ Görselleştirmeyi matplotlib ile yaptım.
 
 
 Artık BST mantığını çok daha iyi anlıyorum :)
-
+"""
 
